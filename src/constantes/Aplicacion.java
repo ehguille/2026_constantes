@@ -6,7 +6,8 @@ public class Aplicacion {
 	public Aplicacion() {
 		
 		//Calculadora c=new Calculadora();
-		System.out.println(Math.abs(-5));
+		Calculadora.sumar(0, 0);
+		Calculadora c=new Calculadora();
 		
 	}
 
